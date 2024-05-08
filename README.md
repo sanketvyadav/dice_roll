@@ -3,3 +3,5 @@
 
 <a href="https://sanketvyadav.github.io/dice_roll/">Click Here to Play Game</a>
 
+<img src="https://i.imgur.com/f2DUzvu.png">
+
